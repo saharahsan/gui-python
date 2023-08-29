@@ -1,2 +1,2 @@
-# projects
-projects to practice skill
+# desktop app using custom tkinter and sqlite3
+
